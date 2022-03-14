@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @UlrichMB
+- 👋 Hi, I’m Ulrich
 - 👀 I’m interested in data analytics
 - 🌱 I’m currently enrolled in a data analytics bootcamp at neue fische GmbH
 - 💞️ I’m looking to collaborate on data analysis projects
